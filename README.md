@@ -1,16 +1,25 @@
-## Hi there 👋
+Seja bem-vindo ao meu portfólio!
 
-<!--
-**IgorGoedert/IgorGoedert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Igor Goedert Bessa Oliveira** e sou um desenvolvedor em formação, atualmente aprendendo **JavaScript** e praticando meus estudos usando o **Visual Studio Code**.
 
-Here are some ideas to get you started:
+Criei este portfólio com o objetivo de reunir meus projetos, demonstrar minha evolução e facilitar o contato com recrutadores e profissionais da área. Estou em busca da **minha primeira oportunidade como desenvolvedor**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Tecnologias que estou estudando:
+- JavaScript
+- Git e GitHub
+- Visual Studio Code
+
+---
+
+O que você vai encontrar aqui:
+- Projetos pessoais desenvolvidos durante meus estudos
+- Desafios práticos resolvidos
+- Links para meus repositórios e contato profissional
+
+---
+
+Contato:
+- 📧 Email: [igorgbo03@gmail.com](mailto:igorgbo03@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/igor-goedert-86a21b207](https://www.linkedin.com/in/igor-goedert-86a21b207/)
