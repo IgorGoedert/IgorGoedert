@@ -23,3 +23,17 @@ O que você vai encontrar aqui:
 Contato:
 - 📧 Email: [igorgbo03@gmail.com](mailto:igorgbo03@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/igor-goedert-86a21b207](https://www.linkedin.com/in/igor-goedert-86a21b207/)
+
+---
+
+Formação e Cursos 🎓:
+**Faculdade**
+- Relações Internacionais (conclusão 12/22)
+- Análise e Desenvolvimento de Sistemas (conclusão 12/26)
+
+**Curso de Línguas**
+- Inglês pela CNA (conclusão 12/22 - Cambridge Certificate)
+
+**Alura**
+- Lógica de Programação: Mergulhe em Programação com JavaScript (conclusão 09/25)
+- Git e GitHub: Compartilhando e Colaborando em Projetos (11/25)
