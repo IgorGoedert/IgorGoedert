@@ -27,6 +27,7 @@ Contato:
 ---
 
 Formação e Cursos 🎓:
+
 **Faculdade**
 - Relações Internacionais (conclusão 12/22)
 - Análise e Desenvolvimento de Sistemas (conclusão 12/26)
