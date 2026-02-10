@@ -10,6 +10,7 @@ Tecnologias que estou estudando:
 - JavaScript
 - Git e GitHub
 - Visual Studio Code
+- SQL
 
 ---
 
@@ -38,3 +39,4 @@ Formação e Cursos 🎓:
 **Alura**
 - Lógica de Programação: Mergulhe em Programação com JavaScript (conclusão 09/25)
 - Git e GitHub: Compartilhando e Colaborando em Projetos (conclusão 11/25)
+- Curso SQLite Online: Conhecendo instruções SQL
