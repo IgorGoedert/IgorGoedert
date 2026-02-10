@@ -39,4 +39,4 @@ Formação e Cursos 🎓:
 **Alura**
 - Lógica de Programação: Mergulhe em Programação com JavaScript (conclusão 09/25)
 - Git e GitHub: Compartilhando e Colaborando em Projetos (conclusão 11/25)
-- Curso SQLite Online: Conhecendo instruções SQL
+- Curso SQLite Online: Conhecendo instruções SQL (conclusão 02/26)
